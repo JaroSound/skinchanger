@@ -30,7 +30,7 @@ start skinchanger
 local isMale = true
 
 local skin = {
-	sex          = 1,
+	sex          = 330,
 	face         = 0,
 	skin         = 0,
 	beard_1      = 0,
